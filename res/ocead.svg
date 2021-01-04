@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7mm"
+   height="7mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="ocead.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="320.53461"
+     inkscape:cy="293.94031"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-147)">
+    <path
+       style="stroke-width:1.3627702"
+       d="M 491.33789,37.794922 V 529.13477 c 37.7884,-0.003 37.78583,-0.004 37.79684,-37.79618 l -8.7e-4,-415.748034 c 0.012,-37.801526 0.012,-37.793402 -37.79597,-37.795634 z M 37.794922,226.77166 v 188.97638 c 0.0031,37.72874 0.01512,37.72864 37.794922,37.79493 V 188.97656 c -37.783515,0.1242 -37.783203,0.13009 -37.794922,37.7951 z m 151.181638,-37.7951 v 264.56641 h 37.79492 V 188.97656 Z m 75.58985,0 v 75.58985 h 37.79492 v -75.58985 z m 75.59179,0 V 302.36133 H 264.56641 V 340.1582 H 377.95312 V 188.97656 Z m 75.58985,0 v 340.15821 h 37.79492 V 188.97656 Z M 264.56641,377.95312 v 75.58985 h 37.79492 v -75.58985 z m 75.59179,0 v 75.58985 h 37.79492 v -75.58985 z"
+       id="rect10"
+       transform="matrix(0.26458333,0,0,0.26458333,0,147)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

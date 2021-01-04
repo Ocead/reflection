@@ -1,0 +1,12 @@
+#CLion specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/deployment.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/other.xml
+
+#CMake build directories
+cmake-build-*/
