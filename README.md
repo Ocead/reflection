@@ -194,7 +194,7 @@ If you have RTTI enabled for your program, you can additionally obtain a classes
 by calling the overridden `ocead::reflective::reflect` function, like so:
 ```c++
 example instance;
-const auto & refl = instancel.reflect();
+const auto & refl = instance.reflect();
 ```
 
 These descriptors map the class-wide unique IDs to symbol descriptors that contain information such as name, type
